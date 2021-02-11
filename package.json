@@ -1,16 +1,21 @@
 {
-  "name": "JavascriptScrollIndicator",
+  "name": "scrollProgress",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "deploy": "gh-pages -d root"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/S-Solomon/scrollProgress.git"
+  },
   "keywords": [],
   "author": "",
-  "license": "ISC",
   "homepage": "https://S-Solomon.github.io/scrollProgress",
-  "dependencies": {
-    "gh-pages": "^3.1.0"
-  }
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/S-Solomon/scrollProgress/issues"
+  },
+  "homepage": "https://github.com/S-Solomon/scrollProgress#readme"
 }
