@@ -17,4 +17,3 @@ function getScrollPercentage() {
 
 updateProgressBar()
 
-//14:20
